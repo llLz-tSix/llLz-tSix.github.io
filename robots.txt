@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lllz-tsix.github.io/dtmetrix-data/sitemap.xml
